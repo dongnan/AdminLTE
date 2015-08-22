@@ -707,6 +707,9 @@ a:focus {
 .control-sidebar > .tab-content {
   padding: 10px 15px;
 }
+.right-sidebar > .tab-content {
+  padding: 10px 15px;
+}
 .control-sidebar.control-sidebar-open,
 .control-sidebar.control-sidebar-open + .control-sidebar-bg {
   right: 0;
